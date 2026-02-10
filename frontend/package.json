@@ -1,15 +1,12 @@
 {
-  "name": "frontend",
+  "name": "frontend-orcamentos",
   "version": "1.0.0",
   "scripts": {
-    "dev": "next dev",
-    "build": "next build",
-    "start": "next start"
+    "dev": "vite"
   },
   "dependencies": {
-    "next": "13.6.8",
-    "react": "18.2.0",
-    "react-dom": "18.2.0",
-    "axios": "^1.4.0"
+    "axios": "^1.6.0",
+    "vue": "^3.3.0",
+    "vue-router": "^4.2.0"
   }
 }
